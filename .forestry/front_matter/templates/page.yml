@@ -34,6 +34,5 @@ fields:
 pages:
 - src/pages/about.md
 - src/pages/contact-success.md
-- src/pages/posts/provaprova.md
 - src/pages/style-guide.md
 - src/pages/subscribe-success.md
